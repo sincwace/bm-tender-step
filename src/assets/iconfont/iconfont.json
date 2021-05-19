@@ -1,0 +1,16 @@
+{
+  "id": "1362956",
+  "name": "MOS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "757122",
+      "name": "帮助",
+      "font_class": "bangzhu",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    }
+  ]
+}
